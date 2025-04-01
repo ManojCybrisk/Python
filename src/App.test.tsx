@@ -1,3 +1,4 @@
+import React from 'react';
 import { render, screen } from "@testing-library/react";
 import { expect, test } from "vitest";  // Import vitest's test and expect functions
 import App from "./App";
