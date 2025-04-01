@@ -8,6 +8,3 @@ export default defineConfig({
     include: ["src/**/*.test.tsx"],  // Ensures Vitest picks up the test files
   },
 });
-
-
-
